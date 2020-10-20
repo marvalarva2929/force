@@ -1,1 +1,1 @@
-# ftc-force-calculator-for-projectiles.
+# force calc
